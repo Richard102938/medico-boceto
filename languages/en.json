@@ -1,0 +1,272 @@
+{
+    "navigation": {
+        "nav1": "HOME",
+        "nav2": "SERVICES",
+        "nav3": "ABOUT US",
+        "nav3.1": "Locations",
+        "nav3.2": "Strategic aliances",
+        "nav4": "APPLICATION",
+        "nav4.1": "Patients App",
+        "nav4.2": "Medical App",
+        "nav5": "NEWS",
+        "nav6": "CONTACT"
+    },
+    "hero": {
+        "title": "LET US TAKE CARE OF YOUR HEALTH",
+        "paragraph": "At doctor at home we offer you home care services in medicine.",
+        "botton": "MEET US",
+
+        "subtitle": "we take care of you with",
+        "subtitle1": "QUALIFIED PROFESSIONALS",
+        "paragraph1": "Our team of professionals is trained to attend you at your home with the highest standards of quality and service.", 
+
+        "subtitle2": "24 HOUR SERVICE",
+        "paragraph2": "Do you need a consultation during the day or at night? Don't worry, at medico en Casa we have 24/7 availability to assist you.",
+
+        "subtitle3": "EQUIPMENT",
+        "paragraph3": "We can attend you at home, we have all the necessary equipment and biomedical devices to give you the best care.",
+
+        "subtitle4": "QUALITY HUMAN CARE",
+        "paragraph4": "Our staff is trained to give you the best medical attention at home with the quality and professionalism that characterizes us."
+    },
+    "about": {
+        "title": "About us",
+        "paragraph": "We are the main provider of health services with medical units and home care with more than 5 years of experience, always delivering high level medicine and quality care, to satisfy in a comprehensive manner the health requirements of the community, thus ensuring continuous improvement in health. Company created for patients, health professionals, insurers, public and private care centers, under the supervision of qualified personnel always providing quality and safety to our patients.",
+        "botton": "LEARN MORE",
+        "icon1": "Emergency",
+        "icon2": "Appointment",
+        "icon3": "Qualified"
+    },
+    "benefits": {
+        "title": "BENEFITS OF HOME PHYSICIAN SERVICES",
+        "paragraph": "At Médico en casa we are committed to taking care of you. We provide a quick response service with everything you need to provide the best health care. We care about your well-being, that's why we have the best team of health professionals, trained to provide a quality and reliable service showing the highest standards of compliance.",
+        
+        "subtitle1": "ATTENTION",
+        "paragraph1.1": "24-hour service",
+        "paragraph1.2": "Patient comfort",
+        "paragraph 1.3": "Family accompaniment",
+        "paragraph 1.4": "Peace of mind",
+        "paragraph1.5": "Improvement in quality of life",
+        "paragraph1.6": "Availability",
+        "paragraph1.7": "Social responsibility",
+        "paragraph1.8": "Human quality",
+
+        "subtitle2": "PROFESSIONALISM",
+        "paragraph2.1": "Medico en casa is in charge of your safety, we validate the information of our health professionals, both in our medical units and in each home service, giving you a range of quality services always at your disposal."
+    },
+    "orientation": {
+    "title": "MEDICAL GUIDANCE IN YOUR HOME",
+    "subtitle1": "CARE WHEN YOU REQUIRE IT",
+    "paragraph1": "ANY DAY OR DATE",
+    
+    "subtitle2": "WITH TELEPHONE COUNSELING",
+    "paragraph2": "WE LISTEN TO YOU!",
+    
+    "subtitle3": "AVOID UNNECESSARY MOBILIZATIONS.",
+    "paragraph3": "CALL US.",
+    
+    "subtitle4": "NO CONGESTIONS OR DELAYS",
+    "paragraph4": "CARE WITHOUT WAITING IN MEDICAL CENTERS",
+    
+    "subtitle5": "24 HOUR CONSULTATION",
+    "paragraph5": "ALWAYS AVAILABLE"
+    },
+    "services": {
+        "title": "OUR SERVICES",
+        "paragraph": "At Medico en casa we have different services and specialties to provide propitious and timely care.",
+
+        "service1": "GENERAL MEDICINE",
+        "paragraph1": "Consulting in:",
+        "paragraph1.1": "Nutrition",
+        "paragraph1.2": "Eating habits",
+        "paragraph1.3": "Hygienic-diet habits",
+        "paragraph1.4": "Adult care",
+        "paragraph1.5": "Follow-up of healthy children",
+        "paragraph1.6": "Interpretation of laboratory and cabinet studies",
+
+        "service2": "PRENATAL CARE",
+        "paragraph2": "We may perform:",
+        "paragraph2.1": "Maternal-fetal assessments",
+        "paragraph2.2": "Weight checks during pregnancy",
+        "paragraph2.3": "Recommendations for timely care",
+        "paragraph2.4": "Validation of your baby's development",
+
+        "service3": "MEDICAL SPECIALTIES",
+        "paragraph3": "We can attend to:",
+        "paragraph3.1": "Gynecology and obstetrics",
+        "paragraph3.2": "Pediatrics",
+        "paragraph3.3": "Traumatology and orthopedics",
+        "paragraph 3.4": "General surgery",
+        "paragraph 3.5": "Urology",
+        "paragraph3.6": "Physical rehabilitation",
+        "paragraph3.7": "Hematology",
+
+        "service4": "PSYCHOLOGY",
+        "paragraph4.1": "Clinical psychology",
+        "paragraph4.2": "Child and adolescent psychology",
+        "paragraph4.3": "Family psychology",
+        "paragraph4.4": "Psychiatry",
+
+        "service5": "NURSING SERVICES",
+        "paragraph5": "We perform elderly follow-up, chronic degenerative disease follow-up as well as visits to check blood pressure (BP), capillary glucose, bed bathing, injections, vitamin serum application, and healing.",
+        
+        "service6": "COVERAGE",
+        "paragraph6.1": "Health coverage to our affiliates thanks to our allies in Mexico and Colombia",
+        "paragraph6.2": "Alliances with health care providers",
+        "paragraph6.3": "Agreements with clinics and hospitals for laboratory and laboratory studies and timely diagnosis"
+    },
+    "information": {
+        "title": "INFORMATION FOR PATIENTS",
+        "paragraph1": "To contract our services you do not need to be affiliated. We attend you with health professionals validated by our work team, in order to provide you with security in medical visits and professional quality.",
+        
+        "paragraph2": "We provide the best home care. We have affordable costs for you."
+    },
+    "contact": {
+        "title": "CONTACT NUMBERS",
+        "paragraph": "At any time you can contact us at the numbers:",
+
+        "subtitle": "CONTACT US",
+        "sub-paragraph": "OUR SOCIAL NETWORKS",
+
+        "links": "Quick links",
+        "link1": "Locations",
+        "link2": "Strategic alliances",
+        "link3": "Patient App",
+        "link4": "Medical App"
+    },
+    "hero2": {
+        "title" :"Our services"
+    },
+    "services2": {
+        "title": "General services",
+
+        "service1": "General consultation (Bilingual)",
+        "service2": "Nursing service",
+        "service3": "Nursing nannies",
+        "service4": "Elderly care",
+        "service5": "Serum application",
+        "service6": "Blood pressure control",
+        "service7": "Diabetic person control",
+        "service8": "Sutures and withdrawals",
+        "service9": "Application of injections",
+        "service10": "Cures",
+        "service11": "Optical wash"
+    },
+    "specialties2": {
+        "title": "Specialties",
+
+        "subtitle1": "Gynecology and Obstetrics",
+        "specialty1": "We attend the integral health of women and in their fertile period. We diagnose and treat diseases of the female reproductive system. In doctor at home we offer you:",
+        "specialty1.1": "Support during pregnancy.",
+        "specialty1.2": "Prenatal growth checks.",
+        "specialty1.3": "Assistance (In clinic) for natural childbirth and cesarean section.",
+        "specialty1.4": "Urinalysis and reading of laboratory results",
+        "specialty1.5": "General care",
+        
+        "subtitle2": "Pediatrics",
+        "specialty2": "Care of children and infants, postpartum care and maternal and child care.", 
+        "specialty2.1": "Well-child care.",
+        "specialty2.2": "Weight and height control according to OMS standardization tables",
+        "specialty2.3": "Counseling on eating habits.",
+        "specialty2.4": "Child psychology",
+        "specialty2.5": "General care.",
+             
+        "subtitle3": "Traumatology and Orthopedics",
+        "specialty3": "",
+        
+        "subtitle4": "General Surgery",
+        "specialty4": "",
+        
+        "subtitle5": "Urology",
+        "specialty5": "",
+        
+        "subtitle6": "Gastroenteorology",
+        "specialty6": "",
+        
+        "subtitle7": "Hematology",
+        "specialty7": "",
+        
+        "subtitle8": "Physical Rehabilitation",
+        "specialty8": "",
+        
+        "subtitle9": "Psychology",
+        "specialty9": ""
+    },
+    "hero3": {
+        "title": "Locations"
+    },
+    "locations": {
+        "title": "Our locations",
+        
+        "subtitle1": "Mexico",
+
+        "location1": "San Miguel Hospital Clinic",
+
+        "location2": "Santa Cruz Medical Clinic",
+        "text2.1": "Boulevard Benito Juárez sn Plaza San Miguel Ground Floor",
+        "text2.2": "Tel +52 958-117-4029",
+
+        "location3": "Av Constituentes",
+        "text3.1": "77720 Playa del Carmen",
+        "text3.2": "Tel 984-256-9265",
+
+        "subtitle2": "Colombia",
+
+        "location4": "Bogotá Office",
+        "text4.1": "Cra 69 #80-20 Bogotá",
+        "text4.2": "Tel +57 310-493-3377"
+    },
+    "hero4": {
+        "title": "Strategic alliances"
+    },
+    "aliances": {
+        "title": "Strategic alliances",
+
+        "paragraph": "We work with all insurance companies"
+    },
+    "hero5": {
+        "title": "Our mobile application"
+    },
+    "patient-app": {
+        "button": "Terms and conditions"
+    },
+    "hero6": {
+        "title": "Accordion"
+    },
+    "accordion": {
+        "paragraph1": "Do you want to be part of the fastest growing home care network?",
+        "paragraph2": "Download here the registration form and send it to medicoencasahux@gmail.com."
+    },
+    "hero7": {
+        "title": "Plans and promotions"
+    },
+    "promos": {
+        "promo1": "Our new home doctor app",
+        "paragraph1": "Now you will be able to contact us and schedule your appointments from our new Home Doctor App. Download it now for free in the Play Store and App Store.",
+
+        "promo2": "Medical check-ups, now at a discount",
+        "paragraph2": "Now our medical checkups are discounted, what are you waiting for to schedule your appointment?",
+
+        "promo3": "Take advantage of the plans we have for you",
+        "paragraph3": "At Médico en casa we have different plans for feminine care, come and check yourself with us, for $1,450!",
+
+        "promo4": "Medical check-ups, now at a discount",
+        "paragraph4": "Now our medical checkups are discounted, what are you waiting for to schedule your appointment?",
+
+        "promo5": "Take advantage of the plans we have for you",
+        "paragraph5": "At Médico en casa we have different plans for feminine care, come and check yourself with us, for $1,450!",
+
+        "promo6": "Why should I have regular medical check-ups?",
+        "paragraph6.1": "At Médico en casa we recommend you to have a medical check-up every year. It is very important to periodically check your state of health, additionally a periodic medical checkup allows you to prevent and detect diseases that are not easily perceived.",
+        "paragraph6.2": "If you have a family history of hereditary diseases, such as high cholesterol, obesity or other factors, it is very important to check your health status.",
+        "paragraph6.3": "Remember that you can schedule an appointment with us and have your checkup at home or at our allied facilities."
+    },
+    "promo-nav": {
+        "title": "Category",
+        
+        "nav1": "Checkups for women",
+        "nav2": "Checkups for men",
+        "nav3": "Plans",
+        "nav4": "Promotions"
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "navigation": {
+        "nav1": "HOME",
+        "nav2": "SERVICIOS",
+        "nav3": "SOBRE NOSOTROS",
+        "nav3.1": "Sedes",
+        "nav3.2": "Alianzas estratégicas",
+        "nav4": "APLICACIÓN",
+        "nav4.1": "App Pacientes",
+        "nav4.2": "App Médica",
+        "nav5": "NOTICIAS",
+        "nav6": "CONTACTO"
+    },
+    "hero": {
+        "title": "PERMÍTENOS CUIDAR TU SALUD",
+        "paragraph": "En médico en casa te ofrecemos servicios de atención domiciliaria en medicina.",
+        "botton": "CONÓCENOS",
+
+        "subtitle": "Te cuidamos con",
+
+        "subtitle1": "PROFESIONALES CALIFICADOS",
+        "paragraph1": "Nuestro equipo de profesionales está capacitado para atenderte en tu domicilio con los más altos estándares de calidad y de servicio.",
+
+        "subtitle2": "SERVICIO LAS 24 HORAS",
+        "paragraph2": "¿Requieres de una consulta en el día o en la noche? Tranquilo, en medico en Casa tenemos disponibilidad 24/7 para atenderte.",
+
+        "subtitle3": "EQUIPAMIENTO",
+        "paragraph3": "Podemos atenderte en casa, contamos con todos los equipos y dispositivos biomédicos necesarios para darte la mejor atención.",
+
+        "subtitle4": "ATENCIÓN HUMANA DE CALIDAD",
+        "paragraph4": "Nuestros personal está entrenado para darte la mejor atención médica en Casa con la calidad y el profesionalismo que nos caracteriza."
+    },
+    "about": {
+        "title": "Acerca de nosotros",
+        "paragraph": "Somos la principal proveedora de servicios en salud con unidades médicas y atención domiciliaria con más de 5 años de experiencia, entregando siempre medicina de alto nivel y atención con calidad, para satisfacer de manera integral los requerimientos en salud la comunidad. garantizado así el mejoramiento continuo en la salud. Empresa creada para pacientes, profesional en salud, aseguradoras, centros de atención públicos y privados, bajo supervisión del personal calificado proporcionando siempre calidad y seguridad a nuestros pacientes.",
+        "botton": "APRENDE MÁS",
+        "icon1": "Emergencia",
+        "icon2": "Cita",
+        "icon3": "Calificado"
+    },
+    "benefits": {
+        "title": "BENEFICIOS DE LOS SERVICIOS DE MÉDICO EN CASA",
+        "paragraph": "En Médico en casa nos comprometemos a cuidarte. Prestamos un servicio de respuesta rápida con todo lo necesario para brindar la mejor atención en salud. Nos importa tu bienestar, por eso tenemos el mejor equipo de profesionales de la salud, capacitada para dar un servicio de calidad y de confianza mostrándo los más áltos estándares de cumplimiento.",
+        
+        "subtitle1": "ATENCIÓN",
+        "paragraph1.1": "Servicio las 24 horas",
+        "paragraph1.2": "Comodidad para el paciente",
+        "paragraph1.3": "Acompañamiento familiar",
+        "paragraph1.4": "Tranquilidad",
+        "paragraph1.5": "Mejora en la calidad de vida",
+        "paragraph1.6": "Disponibilidad",
+        "paragraph1.7": "Responsabilidad social",
+        "paragraph1.8": "Calidad humana",
+
+        "subtitle2": "PROFESIONALISMO",
+        "paragraph2.1": "Medico en casa se encarga de tu seguridad, validamos la información de nuestros profesionales en salud, tanto en nuestras unidades medicas como en cada servicio a domicilio. otorgándote una gama de servicios de calidad siempre a tu disposición."
+    },
+        "orientation": {
+        "title": "ORIENTACIÓN MÉDICA EN TU HOGAR",
+        "subtitle1": "ATENCIÓN CUANDO LA REQUIERAS",
+        "paragraph1": "CUALQUIER DÍA O FECHA",
+        
+        "subtitle2": "CON ASESORÍA TELEFÓNICA",
+        "paragraph2": "¡TE ESCUCHAMOS!",
+        
+        "subtitle3": "EVITA MOVILIZACIONES INNECESARIAS",
+        "paragraph3": "LLÁMANOS",
+        
+        "subtitle4": "SIN CONGESTIONES NI DEMORAS",
+        "paragraph4": "ATENCIÓN SIN ESPERAS EN CENTROS MÉDICOS",
+        
+        "subtitle5": "CONSULTA LAS 24 HORAS",
+        "paragraph5": "SIEMPRE DISPONIBLES"
+    },
+    "services": {
+        "title": "NUESTROS SERVICIOS",
+        "paragraph": "En Médico en casa contamos con diferentes servicios y especialidades para brindar atención propicia y oportuna.",
+
+        "service1": "MEDICINA GENERAL",
+        "paragraph1": "Asesoría en:",
+        "paragraph1.1": "Nutrición",
+        "paragraph1.2": "Hábitos alimenticios",
+        "paragraph1.3": "Hábitos higieno-dietéticos",
+        "paragraph1.4": "Atención al adulto",
+        "paragraph1.5": "Seguimiento a niños sanos",
+        "paragraph1.6": "Interpretación de estudios de laboratorio y gabinete",
+
+        "service2": "ATENCIÓN PRENATAL",
+        "paragraph2": "Podemos realizar:",
+        "paragraph2.1": "Evaluaciones materno fetales",
+        "paragraph2.2": "Controles de peso durante el embarazo",
+        "paragraph2.3": "Recomendaciones para cuidados oportunos",
+        "paragraph2.4": "Validación del desarrollo de tu bebé",
+
+        "service3": "ESPECIALIDADES MÉDICAS",
+        "paragraph3": "Podemos atender:",
+        "paragraph3.1": "Ginecología y obstetricia",
+        "paragraph3.2": "Pediatría",
+        "paragraph3.3": "Traumatología y ortopedia",
+        "paragraph3.4": "Cirugía general",
+        "paragraph3.5": "Urología",
+        "paragraph3.6": "Rehabilitación física",
+        "paragraph3.7": "Hematología",
+
+        "service4": "PSICOLOGÍA",
+        "paragraph4.1": "Psicolgía clínica",
+        "paragraph4.2": "Psicolgía infanto-juvenil",
+        "paragraph4.3": "Psicología familiar",
+        "paragraph4.4": "Psiquiatría",
+
+        "service5": "SERVICIOS DE ENFERMERÍA",
+        "paragraph5": "Realizamos seguimiento de adulto mayor, seguimiento a enfermedades cronico-degenerativas así como visitas para revisar la presión arterial (TA), glucosa capilar, baño en cama, aplicación de inyecciones, aplicación de sueros vitaminados y curaciones.",
+        
+        "service6": "COBERTURA",
+        "paragraph6.1": "Cobertura en salud a nuestros afiliados gracias a nuestros aliados en México y Colombia",
+        "paragraph6.2": "Alianzas con prestadores de servicios de salud",
+        "paragraph6.3": "Convenios con clínicas y hospitales para estudios gabinete, laboratorios y diagnóstico oportuno"
+    },
+    "information": {
+        "title": "INFORMACIÓN PARA PACIENTES",
+        "paragraph1": "Para contratar nuestros servicios no necesitas estar afiliado. Te atendemos con profesionales de la saludo validados por nuestro equipo de trabajo, con el fin de brindarte seguridad en las visitas médicas y calidad profesional.",
+        "paragraph2": "Brindamos la mejor atención a domicilio. Tenemos costos asequibles para ti."
+    },
+    "contact": {
+        "title": "NÚMEROS DE CONTACTO",
+        "paragraph": "En cualquier momento puedes contactarnos en los números:",
+
+        "subtitle": "CONTACTO",
+        "sub-paragraph": "NUESTRAS REDES SOCIALES",
+
+        "links": "links rápidos",
+        "link1": "Sedes",
+        "link2": "Alianzas estratégicas",
+        "link3": "App Pacientes",
+        "link4": "App Médica"
+    },
+    "hero2": {
+        "title": "Nuestros servicios"
+    },
+    "services2": {
+        "title": "Servicios generales",
+
+        "service1": "Consulta general (Bilingüe)",
+        "service2": "Servicio de enfermería",
+        "service3": "Niñeras enfermeras",
+        "service4": "Cuidado del adulto mayor",
+        "service5": "Aplicación de sueros",
+        "service6": "Control de presión arterial",
+        "service7": "Control de persona diabética",
+        "service8": "Suturas y retiros",
+        "service9": "Aplicación de inyecciónes",
+        "service10": "Curaciones",
+        "service11": "Lavado óptico"
+    },
+    "specialties2": {
+        "title": "Especialidades",
+
+        "subtitle1": "Ginecología y Obstetricia",
+        "specialty1": "Atendemos la salud integral de la mujer y en su periodo fértil. Diagnosticamos y tratamos enfermedades del sistema reproductor femenino. En médico en casa te ofrecemos:",
+        "specialty1.1": "Apoyo durante el embarazo.",
+        "specialty1.2": "Controles de crecimiento prenatales.",
+        "specialty1.3": "Asistencia (En clínica) de parto natural y cesárea.",
+        "specialty1.4": "Análisis de orina y lectura de resultados de laboratorio.",
+        "specialty1.5": "Cuidados generales.",
+        
+        "subtitle2": "Pediatría",
+        "specialty2": "Atención de niños y bebés, cuidados post-parto y atención materno-infantíl.",
+        "specialty2.1": "Atención de niño sano.",
+        "specialty2.2": "Control de peso y de talla según tablas de estandarizacion de la OMS.",
+        "specialty2.3": "Asesoría en hábitos alimenticios.",
+        "specialty2.4": "Psicología infantíl.",
+        "specialty2.5": "Cuidados generales.",
+             
+        "subtitle3": "Traumatología y Ortopedia",
+        "specialty3": "",
+        
+        "subtitle4": "Cirugía general",
+        "specialty4": "",
+        
+        "subtitle5": "Urología",
+        "specialty5": "",
+        
+        "subtitle6": "Gastroenteorología",
+        "specialty6": "",
+        
+        "subtitle7": "Hematología",
+        "specialty7": "",
+        
+        "subtitle8": "Rehabilitación Física",
+        "specialty8": "",
+        
+        "subtitle9": "Psicología",
+        "specialty9": ""
+    },
+    "hero3": {
+        "title": "Sedes"
+    },
+    "locations": {
+        "title": "Nuestras sedes",
+
+        "subtitle1": "México",
+
+        "location1": "Clínica hospitalaria San Miguel",
+
+        "location2": "Consultorio médico Santa Cruz",
+        "text2.1": "Boulevard Benito Juárez sn Plaza San Miguel Planta Baja",
+        "text2.2": "Tel +52 958-117-4029",
+
+        "location3": "Av constituyentes",
+        "text3.1": "77720 Playa del Carmen",
+        "text3.2": "Tel 984-256-9265",
+
+        "subtitle2": "Colombia",
+
+        "location4": "Consultorio Bogotá",
+        "text4.1": "Cra 69 #80-20 Bogotá",
+        "text4.2": "Tel +57 310-493-3377"
+    },
+    "hero4": {
+        "title": "Alianzas estratégicas"
+    },
+    "aliances": {
+        "title": "Alianzas estratégicas",
+
+        "paragraph": "Trabajamos con todas las aseguradoras"
+    },
+    "hero5": {
+        "title": "Nuestra aplicación móvil"
+    },
+    "patient-app": {
+        "button": "Consulta términos y condiciones"
+    },
+    "hero6": {
+        "title": "Accordion"
+    },
+    "accordion": {
+        "paragraph1": "¿Quieres hacer parte de la red de atención domiciliaria con mayor crecimiento?",
+        "paragraph2": "Desgarga Aqui el formulario de registro y envíalo al correo medicoencasahux@gmail.com."
+    },
+    "hero7": {
+        "title": "Planes y promociones"
+    },
+    "promos": {
+        "promo1": "Nuestra nueva app de médico en casa",
+        "paragraph1": "Ahora podrás contactarnos y agendar tus citas desde nuestra nueva App de médico en casa. ¡Descargala Ya!, Gratis en las tiendas Play Store y App Store.",
+
+        "promo2": "Chequeos médicos, ahora con descuento",
+        "paragraph2": "Ahora nuestros chequeos médicos están en descuento, ¿qué esperas para agendar tu cita?",
+
+        "promo3": "Aprovecha los planes que tenemos para ti",
+        "paragraph3": "En Médico en casa tenemos diferentes planes para el cuidado femenino. ¡Ven y Chécate con nosotros, dese $1.450!",
+
+        "promo4": "Chequeos médicos, ahora con descuento",
+        "paragraph4": "Ahora nuestros chequeos médicos están en descuento, ¿qué esperas para agendar tu cita?",
+
+        "promo5": "Aprovecha los planes que tenemos para ti",
+        "paragraph5": "En Médico en casa tenemos diferentes planes para el cuidado femenino. ¡Ven y Chécate con nosotros, dese $1.450!",
+
+        "promo6": "¿Por qué debo hacerme revisiones médicas periódicamente?",
+        "paragraph6.1": "En Médico en casa te recomendamos anualmente hacerte un chequeo médico. Es muy importante comprobar periódicamente tu estado de salud, adicionalmente una revisión médica periódica permite prevenir y detectar a tiempo enfermedades que no se perciban fácilmente.",
+        "paragraph6.2": "Si tienes antecedentes familiares de enfermedades hereditarias, como por ejemplo colesterol elevado obesidad u otros factores, son muy importantes los chequeos para la verificación de tu estado de salud.",
+        "paragraph6.3": "Recuerda que puedes agendar una cita con nosotros y realizar tu revisión en casa o en nuestras instalaciones aliadas."
+    },
+    "promo-nav": {
+        "title": "Categoría",
+        
+        "nav1": "Chequeos para mujeres",
+        "nav2": "Chequeos para hombres",
+        "nav3": "Planes",
+        "nav4": "Promociones"
+    }
+}

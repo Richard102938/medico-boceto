@@ -1,0 +1,18 @@
+/* services.html - cards line 230 */
+.card-services {
+    width: 250px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.subtitle-specialty {
+    text-align: center;
+}
+
+/* Ajustes a las listas de las especialidades */
+.list-specialties {
+    width: 100%;
+    margin-left: 15px;
+    color: #555;
+    
+}

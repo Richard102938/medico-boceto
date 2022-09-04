@@ -1,0 +1,272 @@
+{
+    "navigation": {
+        "nav1": "HOME",
+        "nav2": "SERVICES",
+        "nav3": "A PROPOS DE NOUS",
+        "nav3.1": "Sites",
+        "nav3.2": "Alliances stratégiques",
+        "nav4": "APPLICATION",
+        "nav4.1": "App Patients",
+        "nav4.2": "App médicale",
+        "nav5": "NOUVELLES",
+        "nav6": "CONTACT"
+    },
+    "hero": {
+        "title": "LAISSEZ-NOUS PRENDRE SOIN DE VOTRE SANTÉ",
+        "paragraph": "Chez Doctor at home, nous vous proposons des services de soins à domicile en médecine.",
+        "botton": "A PROPOS DE NOUS",
+
+        "subtitle": "Nous prenons soin de vous avec",
+
+        "subtitle1": "PROFESSIONNELS QUALIFIÉS",
+        "paragraph1": "Notre équipe de professionnels est formée pour s'occuper de vous à votre domicile avec les plus hauts standards de qualité et de service.",
+
+        "subtitle2": "SERVICE 24H/24H",
+        "paragraph2": "Avez-vous besoin d'une consultation de jour ou de nuit ? Ne vous inquiétez pas, chez medico en Casa, nous sommes disponibles 24 heures sur 24 et 7 jours sur 7 pour vous assister.",
+
+        "subtitle3": "EQUIPEMENT",
+        "paragraph3": "Nous pouvons vous traiter à domicile, nous disposons de tous les équipements et appareils biomédicaux nécessaires pour vous donner les meilleurs soins.",
+
+        "subtitle4": "DES SOINS HUMAINS DE QUALITÉ",
+        "paragraph4": "Notre personnel est formé pour vous donner les meilleurs soins médicaux à domicile avec la qualité et le professionnalisme qui nous caractérisent."
+    },
+    "about" : {
+        "title" : "À propos de nous",
+        "paragraph" : "Nous sommes le principal fournisseur de services de santé avec des unités médicales et des soins à domicile avec plus de 5 ans d'expérience, offrant toujours une médecine de haut niveau et des soins de qualité, pour satisfaire de manière complète les exigences de santé de la communauté, assurant ainsi une amélioration continue de la santé. Entreprise créée pour les patients, les professionnels de la santé, les assureurs, les centres de soins publics et privés, sous la supervision d'un personnel qualifié offrant toujours qualité et sécurité à nos patients",
+        "botton" : "En savoir plus",
+        "icon1" : "Emergency",
+        "icon2" : "Citation",
+        "icon3" : "Qualifié"
+    },
+    "benefits": {
+        "title": "AVANTAGES DES SERVICES DU MÉDECIN À DOMICILE",
+        "paragraph": "Chez Médico en casa, nous nous engageons à prendre soin de vous. Nous fournissons un service de réponse rapide avec tout ce qui est nécessaire pour fournir les meilleurs soins de santé. Nous nous soucions de votre bien-être, c'est pourquoi nous disposons de la meilleure équipe de professionnels de la santé, formés pour fournir un service de qualité et fiable, respectant les normes de conformité les plus strictes.",
+        
+        "subtitle1" : "ATTENTION",
+        "paragraph1.1": " Service de 24 heures ",
+        "paragraph1.2": " Confort du patient ",
+        "paragraph1.3": "Accompagnement familial",
+        "paragraph1.4": "Tranquillité d'esprit",
+        "paragraph1.5": "Amélioration de la qualité de vie",
+        "paragraph1.6": "Disponibilité",
+        "paragraph1.7": "Responsabilité sociale",
+        "paragraph1.8": " Qualité humaine",
+
+        "subtitle2": "PROFESSIONNALISME",
+        "paragraph2.1": "Medico en casa veille à votre sécurité, nous validons les informations de nos professionnels de la santé, tant dans nos unités médicales que dans chaque service à domicile, vous offrant ainsi une gamme de services de qualité toujours à votre disposition."
+    },
+    "orientation": {
+    "title": "CONSEILS MÉDICAUX À DOMICILE",
+    "subtitle1": "ATTENTION QUAND VOUS EN AVEZ BESOIN",
+    "paragraph1": "TOUT JOUR OU DATE",
+    
+    "subtitle2": "AVEC CONSEIL PAR TÉLÉPHONE",
+    "paragraph2": "NOUS VOUS ÉCOUTONS!",
+    
+    "subtitle3": "ÉVITER TOUTE MOBILISATION INUTILE",
+    "paragraph3": "APPELEZ-NOUS",
+    
+    "subtitle4": "PAS DE CONGESTION, PAS DE RETARD",
+    "paragraph4": "PAS DE TEMPS D'ATTENTE DANS LES CENTRES MÉDICAUX",
+    
+    "subtitle5": "CONSULTATION 24 HEURES SUR 24",
+    "paragraph5": "TOUJOURS DISPONIBLE"
+    },
+    "services": {
+        "title": "NOS SERVICES",
+        "paragraph": "Chez Médico en casa, nous disposons de différents services et spécialités pour fournir des soins appropriés et opportuns.",
+
+        "service1": "MÉDECINE GÉNÉRALE",
+        "paragraph1": "Des conseils sur :",
+        "paragraph1.1": "Nutrition",
+        "paragraph1.2": "Les habitudes alimentaires",
+        "paragraph1.3": "Habitudes hygiéno-diététiques",
+        "paragraph1.4": "Soins aux adultes",
+        "paragraph1.5": "Suivi d'enfants en bonne santé",
+        "paragraph1.6": "Interprétation des études de laboratoire et de cabinet",
+
+        "service2": "SOINS PRÉNATAUX",
+        "paragraph2": "Nous pouvons effectuer :",
+        "paragraph2.1": "Évaluations maternelles et fœtales",
+        "paragraph2.2": "Contrôle du poids pendant la grossesse",
+        "paragraph2.3": "Recommandations pour une prise en charge rapide",
+        "paragraph2.4": "Validation du développement de votre bébé",
+
+        "service3": "SPÉCIALITÉS MÉDICALES",
+        "paragraph3": "Nous pouvons y assister :",
+        "paragraph3.1": "Gynécologie et obstétrique",
+        "paragraph3.2": "Pédiatrie",
+        "paragraph3.3": "Traumatologie et orthopédie",
+        "paragraph3.4": "Chirurgie générale",
+        "paragraph3.5": "Urologie",
+        "paragraph3.6": "Réhabilitation physique",
+        "paragraph3.7": "Hématologie",
+
+        "service4": "PSYCHOLOGIE",
+        "paragraph4.1": "Psychologie clinique",
+        "paragraph4.2": "Psychologie des enfants et des jeunes",
+        "paragraph4.3": "Psychologie de la famille",
+        "paragraph4.4": "Psychiatrie",
+
+        "service5": "SERVICES DE SOINS INFIRMIERS",
+        "paragraph5": "Nous assurons le suivi des personnes âgées, des maladies chroniques dégénératives ainsi que des visites de contrôle de la tension artérielle (TA), du glucose capillaire, des bains de lit, des injections, des sérums vitaminés et des cures.",
+        
+        "service6": "COUVERTURE",
+        "paragraph6.1": "Couverture santé pour nos membres grâce à nos alliés au Mexique et en Colombie",
+        "paragraph6.2": "Partenariats avec les prestataires de services de santé",
+        "paragraph6.3": "Accords avec les cliniques et les hôpitaux pour les tests de laboratoire et les diagnostics rapides."
+    },
+    "information": {
+        "title": "INFORMATIONS POUR LES PATIENTS",
+        "paragraph1": "Pour contracter nos services, il n'est pas nécessaire d'être affilié. Nous vous accompagnons avec des professionnels de la santé validés par notre équipe, afin de vous offrir la sécurité des visites médicales et la qualité professionnelle.",
+        "paragraph2": "Nous fournissons les meilleurs soins à domicile. Nous avons des coûts abordables pour vous."
+    },
+    "contact": {
+        "title": "NUMÉROS DE CONTACT",
+        "paragraph": "À tout moment, vous pouvez nous contacter aux numéros suivants :",
+
+        "subtitle": "CONTACT",
+        "sub-paragraph": "NOS RÉSEAUX SOCIAUX",
+
+        "links": "LIENS RAPIDES",
+        "link1": "Sites",
+        "link2": "Alliances stratégiques",
+        "link3": "App Patients",
+        "link4": "App médicale"
+    },
+    "hero2": {
+        "title": "Nos services"
+    },
+    "services2": {
+        "title": "Services généraux",
+
+        "service1": "Consultation générale (bilingue)",
+        "service2": "Service de soins infirmiers",
+        "service3": "Nounous infirmières",
+        "service4": "Soins aux personnes âgées",
+        "service5": "Application des sérums",
+        "service6": "Surveillance de la tension artérielle",
+        "service7": "Suivi des diabétiques",
+        "service8": "Sutures et retraits",
+        "service9": "Application de l'injection",
+        "service10": "Guérison",
+        "service11": "Lavage optique"
+    },
+    "specialties2": {
+        "title": "Spécialités",
+
+        "subtitle1": "Gynécologie et obstétrique",
+        "specialty1": "Nous nous occupons de la santé intégrale des femmes et de leur période de fertilité. Nous diagnostiquons et traitons les maladies du système reproducteur féminin. Chez Docteur à domicile, nous vous proposons:",
+        "specialty1.1": "Soutien pendant la grossesse.",
+        "specialty1.2": "Surveillance de la croissance prénatale.",
+        "specialty1.3": "Assistance (en clinique) pour l'accouchement naturel et la césarienne.",
+        "specialty1.4": "Analyse d'urine et lecture des résultats de laboratoire.",
+        "specialty1.5": "Soins généraux.",
+        
+        "subtitle2": "Pédiatrie",
+        "specialty2": "Soins aux enfants et aux bébés, soins postnatals et soins aux mères et aux enfants.",
+        "specialty2.1": "Soins de l'enfant.",
+        "specialty2.2": "Contrôle du poids et de la taille selon les tableaux de normalisation de l'OMS.",
+        "specialty2.3": "Des conseils sur les habitudes alimentaires.",
+        "specialty2.4": "La psychologie de l'enfant.",
+        "specialty2.5": "Soins généraux.",
+             
+        "subtitle3": "Traumatologie et orthopédie",
+        "specialty3": "",
+        
+        "subtitle4": "Chirurgie générale",
+        "specialty4": "",
+        
+        "subtitle5": "Urologie",
+        "specialty5": "",
+        
+        "subtitle6": "Gastro-entérologie",
+        "specialty6": "",
+        
+        "subtitle7": "Hématologie",
+        "specialty7": "",
+        
+        "subtitle8": "Réhabilitation physique",
+        "specialty8": "",
+        
+        "subtitle9": "Psychologie",
+        "specialty9": ""
+    },
+    "hero3": {
+        "title": "Sites"
+    },
+    "locations": {
+        "title": "Nos sites",
+
+        "subtitle1": "Mexique",
+
+        "location1": "Clinique de l'hôpital San Miguel",
+
+        "location2": "Clinique médicale de Santa Cruz",
+        "text2.1": "Boulevard Benito Juárez sn Plaza San Miguel Rez-de-chaussée",
+        "text2.2": "Tel +52 958-117-4029",
+
+        "location3": "Av constituyentes",
+        "text3.1": "77720 Playa del Carmen",
+        "text3.2": "Tel 984-256-9265",
+
+        "subtitle2": "Colombie",
+
+        "location4": "Clinique de Bogotá",
+        "text4.1": "Cra 69 #80-20 Bogotá",
+        "text4.2": "Tel +57 310-493-3377"
+    },
+    "hero4": {
+        "title": "Alliances stratégiques"
+    },
+    "aliances": {
+        "title": "Alliances stratégiques",
+
+        "paragraph": "Nous travaillons avec tous les assureurs"
+    },
+    "hero5": {
+        "title": "Notre application mobile"
+    },
+    "patient-app": {
+        "button": "Modalités et conditions"
+    },
+    "hero6": {
+        "title": "Accordéon"
+    },
+    "accordion": {
+        "paragraph1": "Voulez-vous faire partie du réseau de soins à domicile qui connaît la plus forte croissance?",
+        "paragraph2": "Téléchargez ici le formulaire d'inscription et envoyez-le à medicoencasahux@gmail.com."
+    },
+    "hero7": {
+        "title": "Plans et promotions"
+    },
+    "promos": {
+        "promo1": "Notre nouvelle application de médecin à domicile",
+        "paragraph1": "Vous pouvez désormais nous contacter et prendre vos rendez-vous à partir de notre nouvelle application Home Doctor, gratuite sur le Play Store et l'App Store.",
+
+        "promo2": "Examens médicaux, maintenant à prix réduit",
+        "paragraph2": "Maintenant que nos visites médicales sont à prix réduit, qu'attendez-vous pour prendre votre rendez-vous?",
+
+        "promo3": "Profitez des plans que nous avons pour vous",
+        "paragraph3": "Chez Médico en casa nous avons différents plans pour les soins féminins, venez vous faire examiner avec nous, pour 1.450$!",
+
+        "promo4": "Examens médicaux, maintenant à prix réduit",
+        "paragraph4": "Maintenant que nos visites médicales sont à prix réduit, qu'attendez-vous pour prendre votre rendez-vous?",
+
+        "promo5": "Profitez des plans que nous avons pour vous",
+        "paragraph5": "Chez Médico en casa nous avons différents plans pour les soins féminins, venez vous faire examiner avec nous, pour 1.450$!",
+
+        "promo6": "Pourquoi devrais-je passer des contrôles médicaux réguliers?",
+        "paragraph6.1": "Chez Médico en casa, nous vous recommandons de passer une visite médicale chaque année. Il est très important de vérifier périodiquement son état de santé. En outre, un contrôle médical régulier permet de prévenir et de détecter des maladies qui ne sont pas faciles à déceler.",
+        "paragraph6.2": "Si vous avez des antécédents familiaux de maladies héréditaires, comme l'hypercholestérolémie, l'obésité ou d'autres facteurs, les contrôles de santé sont très importants.",
+        "paragraph6.3": "N'oubliez pas que vous pouvez prendre rendez-vous avec nous et effectuer votre contrôle à domicile ou dans nos établissements partenaires."
+    },
+    "promo-nav": {
+        "title": "Catégorie",
+        
+        "nav1": "Bilans de santé pour les femmes",
+        "nav2": "Contrôles pour les hommes",
+        "nav3": "Plans",
+        "nav4": "Promotions"
+    }
+}
